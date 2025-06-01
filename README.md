@@ -25,4 +25,7 @@ How to Play
 13. Use your SKART balance to buy items on the Wizards Store with /buy 999999 (replace 999999 with the template ID.
 14. Once you finish all the missions you can use the /claim command to continue receiving your daily wizard rewards! 😉
 
+    There is also a Guide for the players here:
+    https://watercolor-sketch-art.gitbook.io/wizards-world
+
 🧙🏼 Good Luck Wizard!!
